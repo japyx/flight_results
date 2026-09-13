@@ -1,0 +1,29 @@
+{
+  "pulled_at": "2026-09-13T23:33:47.727452+00:00",
+  "query": {
+    "origins": [
+      "JFK",
+      "EWR",
+      "PHL",
+      "LAX",
+      "SFO",
+      "ORD",
+      "DFW"
+    ],
+    "destination": "HND",
+    "start_date": "2026-10-09",
+    "end_date": "2026-10-10",
+    "max_stops": 1,
+    "cabins": "first,business",
+    "sources": [
+      "american",
+      "alaska",
+      "qatar",
+      "qantas",
+      "finnair"
+    ]
+  },
+  "quota_left": "954",
+  "source_stats": {},
+  "itineraries": []
+}
