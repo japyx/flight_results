@@ -1,5 +1,5 @@
 {
-  "pulled_at": "2026-09-16T20:07:43.005398+00:00",
+  "pulled_at": "2026-09-16T22:56:23.084109+00:00",
   "query": {
     "origins": [
       "JFK",
@@ -23,7 +23,189 @@
       "finnair"
     ]
   },
-  "quota_left": "991",
-  "source_stats": {},
-  "itineraries": []
+  "quota_left": "989",
+  "source_stats": {
+    "american": {
+      "trips": 7,
+      "with_seats": 0,
+      "first": 7
+    }
+  },
+  "itineraries": [
+    {
+      "date": "2026-10-09",
+      "origin": "LAX",
+      "destination": "HND",
+      "cabin": "first",
+      "flight_numbers": "AA6274, JL1",
+      "carriers": "AA, JL",
+      "aircraft": [
+        "Embraer E175",
+        "Boeing 777-300"
+      ],
+      "connections": [
+        "SFO"
+      ],
+      "stops": 1,
+      "departs_at": "2026-10-09T07:17:00Z",
+      "arrives_at": "2026-10-10T15:05:00Z",
+      "duration_min": 948,
+      "miles": 100000,
+      "taxes_cents": 560,
+      "seats": 0,
+      "seats_reported": false,
+      "source": "american",
+      "bookable_with_aa_miles": true
+    },
+    {
+      "date": "2026-10-09",
+      "origin": "LAX",
+      "destination": "HND",
+      "cabin": "first",
+      "flight_numbers": "AA1433, JL9",
+      "carriers": "AA, JL",
+      "aircraft": [
+        "Airbus A321",
+        "Boeing 777-300"
+      ],
+      "connections": [
+        "ORD"
+      ],
+      "stops": 1,
+      "departs_at": "2026-10-09T18:22:00Z",
+      "arrives_at": "2026-10-11T17:30:00Z",
+      "duration_min": 1868,
+      "miles": 100000,
+      "taxes_cents": 1120,
+      "seats": 0,
+      "seats_reported": false,
+      "source": "american",
+      "bookable_with_aa_miles": true
+    },
+    {
+      "date": "2026-10-10",
+      "origin": "LAX",
+      "destination": "HND",
+      "cabin": "first",
+      "flight_numbers": "AA383, JL9",
+      "carriers": "AA, JL",
+      "aircraft": [
+        "Boeing 737-800",
+        "Boeing 777-300"
+      ],
+      "connections": [
+        "ORD"
+      ],
+      "stops": 1,
+      "departs_at": "2026-10-10T06:01:00Z",
+      "arrives_at": "2026-10-11T17:30:00Z",
+      "duration_min": 1169,
+      "miles": 100000,
+      "taxes_cents": 560,
+      "seats": 0,
+      "seats_reported": false,
+      "source": "american",
+      "bookable_with_aa_miles": true
+    },
+    {
+      "date": "2026-10-10",
+      "origin": "LAX",
+      "destination": "HND",
+      "cabin": "first",
+      "flight_numbers": "AA6274, JL1",
+      "carriers": "AA, JL",
+      "aircraft": [
+        "Embraer E175",
+        "Boeing 777-300"
+      ],
+      "connections": [
+        "SFO"
+      ],
+      "stops": 1,
+      "departs_at": "2026-10-10T07:17:00Z",
+      "arrives_at": "2026-10-11T15:05:00Z",
+      "duration_min": 948,
+      "miles": 100000,
+      "taxes_cents": 560,
+      "seats": 0,
+      "seats_reported": false,
+      "source": "american",
+      "bookable_with_aa_miles": true
+    },
+    {
+      "date": "2026-10-10",
+      "origin": "LAX",
+      "destination": "HND",
+      "cabin": "first",
+      "flight_numbers": "AA2244, JL1",
+      "carriers": "AA, JL",
+      "aircraft": [
+        "Boeing 737-800",
+        "Boeing 777-300"
+      ],
+      "connections": [
+        "SFO"
+      ],
+      "stops": 1,
+      "departs_at": "2026-10-10T17:30:00Z",
+      "arrives_at": "2026-10-12T15:05:00Z",
+      "duration_min": 1775,
+      "miles": 100000,
+      "taxes_cents": 1120,
+      "seats": 0,
+      "seats_reported": false,
+      "source": "american",
+      "bookable_with_aa_miles": true
+    },
+    {
+      "date": "2026-10-10",
+      "origin": "LAX",
+      "destination": "HND",
+      "cabin": "first",
+      "flight_numbers": "AA2673, JL1",
+      "carriers": "AA, JL",
+      "aircraft": [
+        "Boeing 737-800",
+        "Boeing 777-300"
+      ],
+      "connections": [
+        "SFO"
+      ],
+      "stops": 1,
+      "departs_at": "2026-10-10T22:02:00Z",
+      "arrives_at": "2026-10-12T15:05:00Z",
+      "duration_min": 1503,
+      "miles": 100000,
+      "taxes_cents": 1120,
+      "seats": 0,
+      "seats_reported": false,
+      "source": "american",
+      "bookable_with_aa_miles": true
+    },
+    {
+      "date": "2026-10-10",
+      "origin": "LAX",
+      "destination": "HND",
+      "cabin": "first",
+      "flight_numbers": "AA2490, JL11",
+      "carriers": "AA, JL",
+      "aircraft": [
+        "Airbus A321",
+        "Airbus A350-1000"
+      ],
+      "connections": [
+        "DFW"
+      ],
+      "stops": 1,
+      "departs_at": "2026-10-10T23:52:00Z",
+      "arrives_at": "2026-10-12T15:20:00Z",
+      "duration_min": 1408,
+      "miles": 100000,
+      "taxes_cents": 560,
+      "seats": 0,
+      "seats_reported": false,
+      "source": "american",
+      "bookable_with_aa_miles": true
+    }
+  ]
 }
