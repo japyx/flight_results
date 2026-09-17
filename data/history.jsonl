@@ -20,3 +20,4 @@
 {"at": "2026-09-17T07:39:43.913033+00:00", "status": "empty", "rows": 0, "itineraries": 0, "aa_bookable": 0, "first": 0, "quota_left": "997", "unfiltered_rows": 37}
 {"at": "2026-09-17T13:27:39.834493+00:00", "status": "empty", "rows": 0, "itineraries": 0, "aa_bookable": 0, "first": 0, "quota_left": "995", "unfiltered_rows": 38}
 {"at": "2026-09-17T18:14:21.069410+00:00", "status": "empty", "rows": 0, "itineraries": 0, "aa_bookable": 0, "first": 0, "quota_left": "993", "unfiltered_rows": 36}
+{"at": "2026-09-17T21:25:00.927118+00:00", "status": "found", "rows": 1, "itineraries": 4, "aa_bookable": 4, "first": 2, "quota_left": "991"}
