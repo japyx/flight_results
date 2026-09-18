@@ -1,5 +1,5 @@
 {
-  "pulled_at": "2026-09-17T21:25:00.927118+00:00",
+  "pulled_at": "2026-09-18T00:19:27.745605+00:00",
   "query": {
     "origins": [
       "JFK",
@@ -23,114 +23,7 @@
       "finnair"
     ]
   },
-  "quota_left": "991",
-  "source_stats": {
-    "american": {
-      "trips": 4,
-      "with_seats": 0,
-      "first": 2
-    }
-  },
-  "itineraries": [
-    {
-      "date": "2026-10-09",
-      "origin": "DFW",
-      "destination": "HND",
-      "cabin": "business",
-      "flight_numbers": "AA2522, JL1",
-      "carriers": "AA, JL",
-      "aircraft": [
-        "Airbus A321",
-        "Boeing 777-300"
-      ],
-      "connections": [
-        "SFO"
-      ],
-      "stops": 1,
-      "departs_at": "2026-10-09T21:10:00Z",
-      "arrives_at": "2026-10-11T15:05:00Z",
-      "duration_min": 1675,
-      "miles": 80000,
-      "taxes_cents": 1120,
-      "seats": 0,
-      "seats_reported": false,
-      "source": "american",
-      "bookable_with_aa_miles": true
-    },
-    {
-      "date": "2026-10-09",
-      "origin": "DFW",
-      "destination": "HND",
-      "cabin": "first",
-      "flight_numbers": "AA2522, JL1",
-      "carriers": "AA, JL",
-      "aircraft": [
-        "Airbus A321",
-        "Boeing 777-300"
-      ],
-      "connections": [
-        "SFO"
-      ],
-      "stops": 1,
-      "departs_at": "2026-10-09T21:10:00Z",
-      "arrives_at": "2026-10-11T15:05:00Z",
-      "duration_min": 1675,
-      "miles": 100000,
-      "taxes_cents": 1120,
-      "seats": 0,
-      "seats_reported": false,
-      "source": "american",
-      "bookable_with_aa_miles": true
-    },
-    {
-      "date": "2026-10-09",
-      "origin": "DFW",
-      "destination": "HND",
-      "cabin": "business",
-      "flight_numbers": "AA2775, JL1",
-      "carriers": "AA, JL",
-      "aircraft": [
-        "Airbus A321",
-        "Boeing 777-300"
-      ],
-      "connections": [
-        "SFO"
-      ],
-      "stops": 1,
-      "departs_at": "2026-10-09T22:01:00Z",
-      "arrives_at": "2026-10-11T15:05:00Z",
-      "duration_min": 1624,
-      "miles": 80000,
-      "taxes_cents": 560,
-      "seats": 0,
-      "seats_reported": false,
-      "source": "american",
-      "bookable_with_aa_miles": true
-    },
-    {
-      "date": "2026-10-09",
-      "origin": "DFW",
-      "destination": "HND",
-      "cabin": "first",
-      "flight_numbers": "AA2775, JL1",
-      "carriers": "AA, JL",
-      "aircraft": [
-        "Airbus A321",
-        "Boeing 777-300"
-      ],
-      "connections": [
-        "SFO"
-      ],
-      "stops": 1,
-      "departs_at": "2026-10-09T22:01:00Z",
-      "arrives_at": "2026-10-11T15:05:00Z",
-      "duration_min": 1624,
-      "miles": 100000,
-      "taxes_cents": 560,
-      "seats": 0,
-      "seats_reported": false,
-      "source": "american",
-      "bookable_with_aa_miles": true
-    }
-  ]
+  "quota_left": "999",
+  "source_stats": {},
+  "itineraries": []
 }
