@@ -1,5 +1,5 @@
 {
-  "pulled_at": "2026-09-22T04:56:14.425876+00:00",
+  "pulled_at": "2026-09-22T09:57:46.828641+00:00",
   "query": {
     "origins": [
       "JFK",
@@ -23,7 +23,64 @@
       "finnair"
     ]
   },
-  "quota_left": "997",
-  "source_stats": {},
-  "itineraries": []
+  "quota_left": "995",
+  "source_stats": {
+    "alaska": {
+      "trips": 2,
+      "with_seats": 2,
+      "first": 0
+    }
+  },
+  "itineraries": [
+    {
+      "date": "2026-10-09",
+      "origin": "SFO",
+      "destination": "HND",
+      "cabin": "business",
+      "flight_numbers": "AS833, AS831",
+      "carriers": "AS",
+      "aircraft": [
+        "Airbus A321",
+        "Airbus A330-200"
+      ],
+      "connections": [
+        "HNL"
+      ],
+      "stops": 1,
+      "departs_at": "2026-10-09T19:48:00Z",
+      "arrives_at": "2026-10-11T19:25:00Z",
+      "duration_min": 1897,
+      "miles": 150000,
+      "taxes_cents": 1120,
+      "seats": 1,
+      "seats_reported": true,
+      "source": "alaska",
+      "bookable_with_aa_miles": false
+    },
+    {
+      "date": "2026-10-10",
+      "origin": "LAX",
+      "destination": "HND",
+      "cabin": "business",
+      "flight_numbers": "AS556, AS831",
+      "carriers": "AS",
+      "aircraft": [
+        "Boeing 737 MAX 9",
+        "Airbus A330-200"
+      ],
+      "connections": [
+        "HNL"
+      ],
+      "stops": 1,
+      "departs_at": "2026-10-10T08:43:00Z",
+      "arrives_at": "2026-10-11T19:25:00Z",
+      "duration_min": 1122,
+      "miles": 150000,
+      "taxes_cents": 560,
+      "seats": 1,
+      "seats_reported": true,
+      "source": "alaska",
+      "bookable_with_aa_miles": false
+    }
+  ]
 }
