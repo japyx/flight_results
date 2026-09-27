@@ -1,5 +1,5 @@
 {
-  "pulled_at": "2026-09-27T08:10:19.654825+00:00",
+  "pulled_at": "2026-09-27T13:58:45.685826+00:00",
   "query": {
     "origins": [
       "JFK",
@@ -23,7 +23,7 @@
       "finnair"
     ]
   },
-  "quota_left": "997",
+  "quota_left": "995",
   "source_stats": {},
   "itineraries": []
 }
