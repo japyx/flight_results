@@ -1,5 +1,5 @@
 {
-  "pulled_at": "2026-10-01T05:53:45.084453+00:00",
+  "pulled_at": "2026-10-01T13:14:57.069150+00:00",
   "query": {
     "origins": [
       "JFK",
@@ -23,7 +23,39 @@
       "finnair"
     ]
   },
-  "quota_left": "999",
-  "source_stats": {},
-  "itineraries": []
+  "quota_left": "997",
+  "source_stats": {
+    "american": {
+      "trips": 1,
+      "with_seats": 0,
+      "first": 1
+    }
+  },
+  "itineraries": [
+    {
+      "date": "2026-10-10",
+      "origin": "DFW",
+      "destination": "HND",
+      "cabin": "first",
+      "flight_numbers": "AA2038, JL15",
+      "carriers": "AA, JL",
+      "aircraft": [
+        "Airbus A321",
+        "Airbus A350-1000"
+      ],
+      "connections": [
+        "LAX"
+      ],
+      "stops": 1,
+      "departs_at": "2026-10-10T22:38:00Z",
+      "arrives_at": "2026-10-12T17:25:00Z",
+      "duration_min": 1727,
+      "miles": 100000,
+      "taxes_cents": 1120,
+      "seats": 0,
+      "seats_reported": false,
+      "source": "american",
+      "bookable_with_aa_miles": true
+    }
+  ]
 }
