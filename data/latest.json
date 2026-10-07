@@ -1,5 +1,5 @@
 {
-  "pulled_at": "2026-10-06T20:20:02.455624+00:00",
+  "pulled_at": "2026-10-07T00:42:36.833903+00:00",
   "query": {
     "origins": [
       "JFK",
@@ -23,7 +23,39 @@
       "finnair"
     ]
   },
-  "quota_left": "994",
-  "source_stats": {},
-  "itineraries": []
+  "quota_left": "999",
+  "source_stats": {
+    "alaska": {
+      "trips": 1,
+      "with_seats": 1,
+      "first": 0
+    }
+  },
+  "itineraries": [
+    {
+      "date": "2026-10-10",
+      "origin": "LAX",
+      "destination": "HND",
+      "cabin": "business",
+      "flight_numbers": "AS556, AS863",
+      "carriers": "AS",
+      "aircraft": [
+        "Boeing 737 MAX 9",
+        "Airbus A330-200"
+      ],
+      "connections": [
+        "HNL"
+      ],
+      "stops": 1,
+      "departs_at": "2026-10-10T08:43:00Z",
+      "arrives_at": "2026-10-11T17:10:00Z",
+      "duration_min": 987,
+      "miles": 150000,
+      "taxes_cents": 560,
+      "seats": 1,
+      "seats_reported": true,
+      "source": "alaska",
+      "bookable_with_aa_miles": false
+    }
+  ]
 }
