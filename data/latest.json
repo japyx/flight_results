@@ -1,5 +1,5 @@
 {
-  "pulled_at": "2026-10-08T07:25:08.602376+00:00",
+  "pulled_at": "2026-10-08T15:36:58.781231+00:00",
   "query": {
     "origins": [
       "JFK",
@@ -23,114 +23,7 @@
       "finnair"
     ]
   },
-  "quota_left": "997",
-  "source_stats": {
-    "alaska": {
-      "trips": 4,
-      "with_seats": 4,
-      "first": 0
-    }
-  },
-  "itineraries": [
-    {
-      "date": "2026-10-10",
-      "origin": "SFO",
-      "destination": "HND",
-      "cabin": "business",
-      "flight_numbers": "AS340, AA169",
-      "carriers": "AA, AS",
-      "aircraft": [
-        "Boeing 737-900",
-        "Boeing 787-9"
-      ],
-      "connections": [
-        "LAX"
-      ],
-      "stops": 1,
-      "departs_at": "2026-10-10T07:27:00Z",
-      "arrives_at": "2026-10-12T04:45:00Z",
-      "duration_min": 1758,
-      "miles": 150000,
-      "taxes_cents": 3120,
-      "seats": 1,
-      "seats_reported": true,
-      "source": "alaska",
-      "bookable_with_aa_miles": false
-    },
-    {
-      "date": "2026-10-10",
-      "origin": "SFO",
-      "destination": "HND",
-      "cabin": "business",
-      "flight_numbers": "AS753, AA169",
-      "carriers": "AA, AS",
-      "aircraft": [
-        "Boeing 737 MAX 8",
-        "Boeing 787-9"
-      ],
-      "connections": [
-        "LAX"
-      ],
-      "stops": 1,
-      "departs_at": "2026-10-10T13:25:00Z",
-      "arrives_at": "2026-10-12T04:45:00Z",
-      "duration_min": 1400,
-      "miles": 150000,
-      "taxes_cents": 2560,
-      "seats": 1,
-      "seats_reported": true,
-      "source": "alaska",
-      "bookable_with_aa_miles": false
-    },
-    {
-      "date": "2026-10-10",
-      "origin": "SFO",
-      "destination": "HND",
-      "cabin": "business",
-      "flight_numbers": "AS1457, AA169",
-      "carriers": "AA, AS",
-      "aircraft": [
-        "Boeing 737 MAX 8",
-        "Boeing 787-9"
-      ],
-      "connections": [
-        "LAX"
-      ],
-      "stops": 1,
-      "departs_at": "2026-10-10T16:51:00Z",
-      "arrives_at": "2026-10-12T04:45:00Z",
-      "duration_min": 1194,
-      "miles": 150000,
-      "taxes_cents": 2560,
-      "seats": 1,
-      "seats_reported": true,
-      "source": "alaska",
-      "bookable_with_aa_miles": false
-    },
-    {
-      "date": "2026-10-10",
-      "origin": "SFO",
-      "destination": "HND",
-      "cabin": "business",
-      "flight_numbers": "AS2360, AA169",
-      "carriers": "AA, AS",
-      "aircraft": [
-        "Embraer E175",
-        "Boeing 787-9"
-      ],
-      "connections": [
-        "LAX"
-      ],
-      "stops": 1,
-      "departs_at": "2026-10-10T19:52:00Z",
-      "arrives_at": "2026-10-12T04:45:00Z",
-      "duration_min": 1013,
-      "miles": 150000,
-      "taxes_cents": 2560,
-      "seats": 1,
-      "seats_reported": true,
-      "source": "alaska",
-      "bookable_with_aa_miles": false
-    }
-  ]
+  "quota_left": "996",
+  "source_stats": {},
+  "itineraries": []
 }
