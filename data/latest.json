@@ -1,5 +1,5 @@
 {
-  "pulled_at": "2026-10-10T13:41:43.174074+00:00",
+  "pulled_at": "2026-10-10T18:35:51.734301+00:00",
   "query": {
     "origins": [
       "JFK",
@@ -23,7 +23,89 @@
       "finnair"
     ]
   },
-  "quota_left": "995",
-  "source_stats": {},
-  "itineraries": []
+  "quota_left": "993",
+  "source_stats": {
+    "alaska": {
+      "trips": 3,
+      "with_seats": 3,
+      "first": 0
+    }
+  },
+  "itineraries": [
+    {
+      "date": "2026-10-10",
+      "origin": "SFO",
+      "destination": "HND",
+      "cabin": "business",
+      "flight_numbers": "AS753, AA169",
+      "carriers": "AA, AS",
+      "aircraft": [
+        "Boeing 737 MAX 8",
+        "Boeing 787-9"
+      ],
+      "connections": [
+        "LAX"
+      ],
+      "stops": 1,
+      "departs_at": "2026-10-10T13:25:00Z",
+      "arrives_at": "2026-10-12T04:45:00Z",
+      "duration_min": 1400,
+      "miles": 150000,
+      "taxes_cents": 2560,
+      "seats": 1,
+      "seats_reported": true,
+      "source": "alaska",
+      "bookable_with_aa_miles": false
+    },
+    {
+      "date": "2026-10-10",
+      "origin": "SFO",
+      "destination": "HND",
+      "cabin": "business",
+      "flight_numbers": "AS1457, AA169",
+      "carriers": "AA, AS",
+      "aircraft": [
+        "Boeing 737 MAX 8",
+        "Boeing 787-9"
+      ],
+      "connections": [
+        "LAX"
+      ],
+      "stops": 1,
+      "departs_at": "2026-10-10T16:51:00Z",
+      "arrives_at": "2026-10-12T04:45:00Z",
+      "duration_min": 1194,
+      "miles": 150000,
+      "taxes_cents": 2560,
+      "seats": 1,
+      "seats_reported": true,
+      "source": "alaska",
+      "bookable_with_aa_miles": false
+    },
+    {
+      "date": "2026-10-10",
+      "origin": "SFO",
+      "destination": "HND",
+      "cabin": "business",
+      "flight_numbers": "AS2360, AA169",
+      "carriers": "AA, AS",
+      "aircraft": [
+        "Embraer E175",
+        "Boeing 787-9"
+      ],
+      "connections": [
+        "LAX"
+      ],
+      "stops": 1,
+      "departs_at": "2026-10-10T19:52:00Z",
+      "arrives_at": "2026-10-12T04:45:00Z",
+      "duration_min": 1013,
+      "miles": 150000,
+      "taxes_cents": 2560,
+      "seats": 1,
+      "seats_reported": true,
+      "source": "alaska",
+      "bookable_with_aa_miles": false
+    }
+  ]
 }
